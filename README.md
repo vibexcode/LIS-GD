@@ -1,7 +1,7 @@
 
 ## Paper
 
-- **Title:** LIS-GD: Sonlu Ufuklu Gradyan Optimizasyonu
+- **Title:** LIS-GD: Finite-Horizon Gradient Optimization
 - **Status:** [submitted / under review / preprint — update as appropriate]
 - **PDF / preprint link:** [add link once available]
 
