@@ -110,7 +110,7 @@ If you use this code or refer to this work, please cite:
 ```bibtex
 @unpublished{lisgd2026,
   title  = {LIS-GD: Finite-Horizon Gradient Optimization},
-  author = {<Author Name>},
+  author = {Ugur Kandemis},
   year   = {2026},
   note   = {Preprint}
 }
