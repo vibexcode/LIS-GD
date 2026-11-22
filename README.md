@@ -127,5 +127,4 @@ python lis_regression_10seed.py
 }
 ```
 
-A machine-readable version is in `CITATION.cff`. The archived release that
-matches the paper is on Zenodo (DOI to be added with the release).
+A machine-readable version is in `CITATION.cff`. The archived release that matches the paper (v1.1.0) is on Zenodo: https://doi.org/10.5281/zenodo.24437315.
