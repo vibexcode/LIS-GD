@@ -1,0 +1,2 @@
+BGD (eta=0.1, 500 iter): test_acc=0.9222  train_loss=0.2852
+LIS-GD (M=502, 500 etkin adim): test_acc=0.9503  train_loss=0.1670
